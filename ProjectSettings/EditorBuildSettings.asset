@@ -21,7 +21,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Contact Us.unity
     guid: f66834a8b4631ca4ba1f2ef0850af7d1
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ace3244c4e10aec41a1d99bbed641dff,
+      type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 8d8d946b7f136a446957f5754f9e3f3e,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a5590a21d3a22b04495a5f86ac88a8db,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 24277b01f2ce82242ab2d9b8992e2671,
       type: 2}
